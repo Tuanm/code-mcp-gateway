@@ -59,7 +59,7 @@ npx wrangler deploy
 
 ```bash
 cd worker
-npm test          # smoke suite: 16 scenarios against local wrangler instances
+npm test          # smoke suite: 17 scenarios against local wrangler instances
 npm run typecheck # tsc --noEmit
 npm run deploy
 ```
